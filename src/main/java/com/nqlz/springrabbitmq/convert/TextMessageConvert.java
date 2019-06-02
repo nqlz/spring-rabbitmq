@@ -1,4 +1,4 @@
-package com.nqlz.springrabbitmq.config;
+package com.nqlz.springrabbitmq.convert;
 
 import org.springframework.amqp.core.Message;
 import org.springframework.amqp.core.MessageProperties;

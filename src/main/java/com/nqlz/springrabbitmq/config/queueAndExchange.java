@@ -1,5 +1,6 @@
 package com.nqlz.springrabbitmq.config;
 
+import com.nqlz.springrabbitmq.convert.TextMessageConvert;
 import org.springframework.amqp.core.*;
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;
 import org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer;
