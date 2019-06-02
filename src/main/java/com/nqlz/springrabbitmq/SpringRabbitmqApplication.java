@@ -10,6 +10,7 @@ public class SpringRabbitmqApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringRabbitmqApplication.class, args);
+
     }
 
 }
